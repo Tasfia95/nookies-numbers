@@ -16,7 +16,7 @@
 
 <img width="1855" height="1104" alt="image" src="https://github.com/user-attachments/assets/a7b26eaf-bf57-4e7d-ae67-559e93175857" />
 
-#### once you choose the mode you would like to play with, you are brought to the game screen. You enter a number in the box and click guess to get starterd. You'll be given feedback on your guess based on if it's too high or low. 
+#### once you choose the mode you would like to play with, you are brought to the game screen. You enter a number in the box and click guess to get started. You'll be given feedback on your guess based on if it's too high or low. You can also view your current score on the right and the attempts that you have left. 
 
 <img width="1891" height="1132" alt="image" src="https://github.com/user-attachments/assets/37f3ef98-743c-46d1-aefd-cccd8d3de547" />
 
